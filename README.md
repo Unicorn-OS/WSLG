@@ -3,7 +3,7 @@
 ## Guide:
 https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
 
-## source:
+## Source:
 https://github.com/microsoft/wslg
 
 sch: https://www.google.com/search?q=windows+WSLg
